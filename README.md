@@ -13,3 +13,5 @@
 -La aplicacion ya esta lista para realizar consultas tanto de las que se encuentran en la base como otras preguntas.
 
 ***tener cuidado al clonar los repositorios ya que a veces .env.api no se copia correctamente***
+
+Link del video: https://drive.google.com/file/d/1Ik9I-b3yHZ7i-HEwRsmr4IdcaCA_34wj/view?usp=sharing
